@@ -2,4 +2,4 @@
 1. Run autoaccept
 2. Expand game
 3. Press F10
-F10 activate | deactivate
+P.S F10 activate | deactivate

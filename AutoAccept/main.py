@@ -20,7 +20,7 @@ import time
 from utils.time import sleep
 
 # CONFIG
-GAME_WINDOW_TITLE = "Counter-Strike 2"  # aimlab_tb, FallGuys_client, Counter-Strike: Global Offensive - Direct3D 9, etc
+GAME_WINDOW_TITLE = "Counter-Strike 2" 
 ACTIVATION_HOTKEY = "F10"
 _show_cv2 = False
 
